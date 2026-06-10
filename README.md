@@ -36,3 +36,18 @@
 ✅ Використовувати JOIN, VIEW та функції  
 ✅ Проєктувати та нормалізувати бази даних  
 ✅ Керувати структурою БД через DDL
+
+---
+
+## 🛠️ Засоби навчання
+
+- **Python**
+- **PostgreSQL**
+- **Docker**
+- **PyCharm**
+- **Microsoft Visual Studio + Python Tools**
+- **Jupyter Notebook**
+- **pgAdmin**
+- **DBeaver**
+
+
