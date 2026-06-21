@@ -103,3 +103,33 @@
 - отримання результатів
 
 ---
+## 📖 Лекція 2 — Типи даних PostgreSQL і прості запити
+
+### Типи даних PostgreSQL
+
+- числові
+- символьні
+- дата / час / інтервал
+- логічні типи
+
+### Прості SQL-запити
+
+- `SELECT`
+- `DISTINCT`
+- `COUNT`
+- `WHERE`
+- `AND`, `OR`
+- `BETWEEN`
+- `IN`, `NOT IN`
+- `ORDER BY`
+- `MIN`, `MAX`, `AVG`
+- `LIKE`
+- `LIMIT`
+- `NULL`
+- `GROUP BY`
+- `HAVING`
+- `UNION`
+- `INTERSECT`
+- `EXCEPT`
+
+---
