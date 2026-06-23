@@ -133,3 +133,23 @@
 - `EXCEPT`
 
 ---
+## 📖 Лекція 3 — JOIN і підзапити
+
+### JOIN — поєднання таблиць
+
+- `INNER JOIN`
+- `LEFT JOIN`
+- `RIGHT JOIN`
+- `FULL JOIN`
+- `CROSS JOIN`
+- `USING`
+- `NATURAL JOIN`
+- `AS`
+
+### Підзапити
+
+- `WHERE EXISTS`
+- `ANY (SOME)`
+- `ALL`
+
+---
