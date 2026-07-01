@@ -213,3 +213,29 @@ WHILE
 FOR```
 
 ---
+
+## 📖 Лекція 5 — Проєктування БД та DDL
+
+### Проєктування БД
+
+- концептуальний рівень
+- логічний рівень
+- фізичний рівень
+
+### Нормалізація
+
+- **1NF**
+- **2NF**
+- **3NF**
+
+### DDL
+
+- `CREATE DATABASE`
+- `DROP DATABASE`
+- `CREATE TABLE`
+- `ALTER TABLE`
+- `DROP TABLE`
+- `TRUNCATE TABLE`
+- `CHECK`
+- `DEFAULT`
+- `INSERT`
