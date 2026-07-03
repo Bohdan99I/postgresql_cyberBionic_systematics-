@@ -239,3 +239,21 @@ FOR```
 - `CHECK`
 - `DEFAULT`
 - `INSERT`
+
+---
+
+## 📁 Структура репозиторію
+
+```text
+sql-essential-course/
+│
+├── 001_Infrastructure/
+├── 002_SQL_Basics/
+├── 003_JOINS_Subqueries/
+├── 004_Views_Functions/
+├── 005_Database_Design_DDL/
+│
+├── docker-compose.yml
+├── requirements.txt
+└── README.md
+```
