@@ -257,3 +257,15 @@ sql-essential-course/
 ├── requirements.txt
 └── README.md
 ```
+
+---
+
+## 🚀 Технології
+
+Python • PostgreSQL • SQL • Docker • pgAdmin • DBeaver
+
+---
+
+## 📜 License
+
+Repository created for educational purposes.
