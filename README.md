@@ -269,3 +269,9 @@ Python • PostgreSQL • SQL • Docker • pgAdmin • DBeaver
 ## 📜 License
 
 Repository created for educational purposes.
+
+------------------------------------------------------------------------
+
+**CyberBionic Systematics**  
+**Вебсайт:** [www.edu.cbsystematics.com](http://www.edu.cbsystematics.com)
+------------------------------------------------------------------------
